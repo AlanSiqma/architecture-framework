@@ -38,3 +38,11 @@ aip/AIP-XXXX/
 - Representar sistemas, fluxos de dados, integrações, e decisões arquiteturais
 - Nomeie os elementos de forma clara e concisa
 - Use versões e datas nos arquivos, se aplicável
+
+```mermaid
+flowchart LR
+    Start[Proposta de Arquitetura] --> AIP
+    AIP --> Discussao[Discussão e Revisão]
+    Discussao -->|Aprovado| ADR
+    Discussao -->|Rejeitado| Encerrado
+```
