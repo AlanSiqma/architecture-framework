@@ -15,24 +15,22 @@ Este framework combina o conceito de propostas de melhoria de arquitetura (AIPs)
 
 ## Estrutura
 
+~~~
 architecture-framework/
-
 ├── aip/ # Propostas
-
 ├── adr/ # Decisões tomadas
-
 ├── templates/ # Modelos
+~~~
 
 🔶 Requisito obrigatório:
 Cada AIP deve conter ao menos um desenho da solução proposta, em formato .drawio (ou .svg, .png exportado do Draw.io).
 O arquivo deve ser salvo no mesmo diretório do AIP, com o nome:
 
+~~~
 aip/AIP-XXXX/
-
 ├── AIP-XXXX.md
-
 └── AIP-XXXX.drawio
-
+~~~
 
 ## Boas práticas para diagramas
 
@@ -40,4 +38,3 @@ aip/AIP-XXXX/
 - Representar sistemas, fluxos de dados, integrações, e decisões arquiteturais
 - Nomeie os elementos de forma clara e concisa
 - Use versões e datas nos arquivos, se aplicável
-
