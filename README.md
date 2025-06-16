@@ -22,3 +22,11 @@ architecture-framework/
 ├── adr/ # Decisões tomadas
 
 ├── templates/ # Modelos
+
+
+## Boas práticas para diagramas
+
+- Utilize [draw.io](https://draw.io/) (gratuito, exportável para Git)
+- Representar sistemas, fluxos de dados, integrações, e decisões arquiteturais
+- Nomeie os elementos de forma clara e concisa
+- Use versões e datas nos arquivos, se aplicável

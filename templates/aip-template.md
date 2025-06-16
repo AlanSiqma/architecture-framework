@@ -31,3 +31,10 @@ Links para reuniões ou PRs.
 
 ## 8. ADR Relacionado
 _(Preenchido após decisão)_
+
+## 9. Diagramas de Solução
+
+> O diagrama abaixo representa a proposta arquitetural.  
+> *(Formato sugerido: `.drawio` — anexe ao repositório no mesmo diretório deste AIP.)*
+
+![Diagrama da Solução](./AIP-XXXX.drawio)
