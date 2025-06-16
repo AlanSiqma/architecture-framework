@@ -16,6 +16,9 @@ Este framework combina o conceito de propostas de melhoria de arquitetura (AIPs)
 ## Estrutura
 
 architecture-framework/
+
 ├── aip/ # Propostas
+
 ├── adr/ # Decisões tomadas
+
 ├── templates/ # Modelos
